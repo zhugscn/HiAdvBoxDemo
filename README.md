@@ -77,7 +77,8 @@ https://github.com/youth5201314/banner， 是适合手机主页广告的，每�
 ```
 
 > 5 运行效果
-<iframe height=498 width=510 src="./HiAdvBoxDemo/myres/intro1.mp4">
+
+![avatar](./HiAdvBoxDemo/myres/intro1.png)
 
 
 因为时间有限，暂时没有把控件去抽离。以后有时间再抽离上传中央仓库
